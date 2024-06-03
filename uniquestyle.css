@@ -1,0 +1,32 @@
+/* Formal CSS Style */
+.formal-style {
+    font-family: Georgia, serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    background-color: #f7f7f7;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+.formal-style h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.formal-style p {
+    margin-bottom: 10px;
+}
+
+.formal-style a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.formal-style a:hover {
+    text-decoration: underline;
+}
